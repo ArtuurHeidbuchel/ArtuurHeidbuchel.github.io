@@ -6,3 +6,9 @@ button {
     background-color: white;
     font-weight: bold;
 }
+ul {
+    border: solid;
+    border-radius: 10px;
+    border-color: red;
+    background-color: brown;
+}
