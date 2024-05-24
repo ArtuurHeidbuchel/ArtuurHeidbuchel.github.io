@@ -6,6 +6,7 @@ body {
 button {
     background-color: white;
     font-weight: bold;
+    border-radius: 0 20px 0 20px;
 }
 ul {
     border: solid;
