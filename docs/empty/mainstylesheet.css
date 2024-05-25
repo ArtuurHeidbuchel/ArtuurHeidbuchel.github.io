@@ -6,12 +6,12 @@ body {
 button {
     background-color: white;
     font-weight: bold;
-    border-radius: 0 20px 0 20px;
+    margin: 0 15px 0 15px;
+    text-decoration: underline;
 }
 ul {
     border: solid;
     border-radius: 10px;
     border-color: bisque;
     background-color: beige;
-    margin: 0 50px 0 50px;
 }
